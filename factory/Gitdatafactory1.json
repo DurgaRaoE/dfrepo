@@ -1,0 +1,9 @@
+{
+	"name": "Gitdatafactory1",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "326b63b3-77de-431d-bce1-d30dbba65129",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}
